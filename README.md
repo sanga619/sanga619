@@ -1,7 +1,7 @@
 
 **Hello I am Abhishek Kumar 👋**
 
-- 🔭 I’m currently working on TranspaRation
+- 🔭 I’m currently working on Amazon-Clone
 - 🌱 I’m currently learning MERN 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
